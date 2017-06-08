@@ -1,0 +1,229 @@
+.achtergrond{
+    background: #f2f0eb url(images/bg.png);
+    background-image: url(http://line25.com/wp-content/uploads/2011/portfolio-website/demo/images/bg.png);
+    background-color: rgba(142, 254, 252, 0);
+    height: 1100px;
+
+}
+
+
+body  {
+    margin: -8px;
+    width: 100.5%;
+
+}
+
+
+.content{
+  box-shadow: 1px 1px 100px rgba(136, 141, 144, 0.4);
+    margin-left: 211px;
+    width: 68.75%;
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+.leftp{
+
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 20px ;
+    padding-bottom: 15px;
+    float: left;
+    font-size: 17px;
+    background-color: #c5c5c5;
+    color: #eeeeee;
+    border: inset ;
+    border-color: #bebfbf;
+    box-shadow: 1px 1px 100px #acacac;
+}
+
+.navigation{
+    box-shadow: 1px 1px 5px #c9c9c9;
+    background-color: rgb(224, 223, 223);
+    list-style-type: none;
+padding-bottom: inherit;
+    overflow: hidden;
+    width: 1500px;
+    position: fixed;
+
+}
+
+
+
+
+.portfolioheader{
+
+}
+
+
+
+
+
+.headerpagina1{
+
+
+
+
+
+}
+
+.Homebutton{
+
+float: left;
+    margin-right: 60px;
+margin-left:115px;
+   margin-top: 20px;
+
+    font-weight: lighter;text-transform: full-width;
+
+
+}
+
+.Mijndoelbutton{
+    float: left;
+    margin-right:  60px;
+    margin-top: 20px;
+}
+
+
+.Wiebenikbutton{
+    float: left;
+    margin-right: 60px;
+    margin-top: 20px;
+
+}
+
+.Watdoeikbutton{
+    float: left;
+    margin-right: 60px;
+    margin-top: 20px;
+}
+
+.Hobbysbutton{
+    float: left;
+    margin-right: 60px;
+    margin-top: 20px;
+}
+.Portfoliobutton{
+
+    float: left;
+    margin-right: 60px;
+    margin-top: 20px;
+}
+
+.Contactbutton{
+    float: left;
+    margin-right: 60px;
+    margin-top:20px;
+}
+
+button {
+    padding: 9px;
+    background-color: #c8c8c8;
+    color: #fcfcfc;
+    border-radius: 7%;
+    border-width: 0px;
+    font-size: 110%;
+    font-family: "Times New Roman", Times, serif
+}
+
+
+
+.midden{
+
+    height: 520px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.section1text{
+
+    font: 16px Helvetica, Arial, Sans-Serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    color: #565656;
+    box-sizing: border-box;
+    width: 440px;
+    height: 490px;
+
+    background-color: rgb(224, 223, 223);
+    padding: 10px;
+    position: inherit;
+
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
+
+
+h1{
+    color: #7a7a7a;
+}
+
+.foto{
+    float: right;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px
+}
+
+
+.footer{
+    height: 150px;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-top: inset;
+    border-top-width: 6px;
+    border-top-color: #fffdf9;
+
+}
+
+.icons {
+    float: right;
+    position: inherit;
+    margin-right: -6px;
+}
+
+
+
+.text-footer{
+    font: 16px Helvetica, Arial, Sans-Serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #636363;
+    line-height: 24px;
+    box-sizing: border-box;
+    width: 440px;
+    background: aqua;
+    padding: 10px;
+    float: left;
+    position: inherit;
+    font: 16px Helvetica, Arial, Sans-Serif;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.copyright{
+    font-size: 12px;
+    text-align: center;
+    color: #b8b6b2;
+    margin-top: 10px;
+
+}

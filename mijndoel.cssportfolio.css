@@ -1,0 +1,118 @@
+.achtergrond{
+    background: #f2f0eb url(images/bg.png);
+    background-image: url(http://line25.com/wp-content/uploads/2011/portfolio-website/demo/images/bg.png);
+    height: 1100px;
+}
+
+body  {
+
+    margin: -8px;
+    width: 100.5%;}
+
+.content {
+    background-color: white;
+}
+
+.leftp{
+    padding-top: 30px;
+    padding-left: 30px;
+
+}
+
+.navigation{
+    box-shadow: 1px 1px 5px #c9c9c9;
+    background-color: rgb(224, 223, 223);
+    list-style-type: none;
+    padding-bottom: inherit;
+    overflow: hidden;
+    width: 1500px;
+    position: fixed;
+
+}
+
+
+
+.Homebutton{
+
+    float: left;
+    margin-right: 60px;
+    margin-left:90px;
+    margin-top: 20px;
+
+    font-weight: lighter;text-transform: full-width;
+
+
+}
+
+.Mijndoelbutton{
+    float: left;
+    margin-right:  60px;
+    margin-top: 20px;
+}
+
+
+.Wiebenikbutton{
+    float: left;
+    margin-right: 60px;
+    margin-top: 20px;
+
+}
+
+.Watdoeikbutton{
+    float: left;
+    margin-right: 60px;
+    margin-top: 20px;
+}
+
+.Hobbysbutton{
+    float: left;
+    margin-right: 60px;
+    margin-top: 20px;
+}
+.Portfoliobutton{
+
+    float: left;
+    margin-right: 60px;
+    margin-top: 20px;
+}
+
+.Contactbutton{
+    float: left;
+    margin-right: 60px;
+    margin-top:20px;
+}
+
+button {
+    padding: 9px;
+    background-color: #c8c8c8;
+    color: #fcfcfc;
+    border-radius: 7%;
+    border-width: 0px;
+    font-size: 110%;
+    font-family: "Times New Roman", Times, serif
+}
+
+.sextion1text{
+
+    font: 16px Helvetica, Arial, Sans-Serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    color: #636363;
+    box-sizing: border-box;
+    width: 440px;
+    height: 490px;
+
+    background-color: rgb(224, 223, 223);
+    padding: 10px;
+    position: inherit;
+
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.foto2{
+    float: right;
+}

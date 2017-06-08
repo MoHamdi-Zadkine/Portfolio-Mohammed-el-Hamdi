@@ -1,0 +1,25 @@
+.achtergrond{
+    background: #f2f0eb url(images/bg.png);
+    background-image: url(http://line25.com/wp-content/uploads/2011/portfolio-website/demo/images/bg.png);
+    background-color: rgba(142, 254, 252, 0);
+    height: 1300px;
+
+}
+
+.Homebutton {
+
+    float: left;
+    margin-right: 60px;
+    margin-left: 97px;
+    margin-top: 20px;
+
+    font-weight: lighter;
+    text-transform: full-width;
+}
+
+
+.section1text{
+    height: 749px;
+    width: 800px;
+
+}
